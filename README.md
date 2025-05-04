@@ -1,5 +1,3 @@
-🔥🎀💅 The ultimate Project Slayers Script 2025 for Roblox – Auto Farm, Dungeon Bot, Mobile Support, Pastebin & No Key! Dominate with ease! 💥🗡️📱
-
 # Project Slayers Script 🔥🎀💅 Auto Farm, Dungeon | Pastebin/No Key 2025
 
 Welcome to the **official GitHub repository** for the ultimate **Project Slayers Script** in 2025! This script is designed to enhance your gameplay in the popular Roblox game *Project Slayers* with powerful features like Auto Farm, Dungeon Automation, and full Mobile support.
