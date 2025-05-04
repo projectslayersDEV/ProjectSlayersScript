@@ -12,14 +12,14 @@ Welcome to the **official GitHub repository** for the ultimate **Project Slayers
 
 ## 🚀 Features
 
-✨ Fully automated **Auto Farm** system — farm mobs, collect loot, gain XP like a pro!
-🎯 Powerful **Dungeon Bot** — clear dungeons completely hands-free with advanced pathfinding!
-🔓 **No Key System** — skip all the annoying key verifications, just copy, paste, and play!
-📱 **Mobile Compatibility** — the **project slayers script mobile** version is optimized for Android (Arceus X, Hydrogen, etc.)!
-💾 Pastebin-friendly setup — load the **project slayers script pastebin** version instantly!
-🧠 Smart combat logic — automatically targets enemies based on your level and weapon!
-🛡️ Anti-AFK, Auto Heal, Respawn, and more!
-🧩 Works with all major executors including Synapse X, KRNL, Fluxus and more!
+✨ Fully automated **Auto Farm** system — farm mobs, collect loot, gain XP like a pro! <br>
+🎯 Powerful **Dungeon Bot** — clear dungeons completely hands-free with advanced pathfinding! <br>
+🔓 **No Key System** — skip all the annoying key verifications, just copy, paste, and play! <br>
+📱 **Mobile Compatibility** — the **project slayers script mobile** version is optimized for Android (Arceus X, Hydrogen, etc.)! <br>
+💾 Pastebin-friendly setup — load the **project slayers script pastebin** version instantly! <br>
+🧠 Smart combat logic — automatically targets enemies based on your level and weapon! <br>
+🛡️ Anti-AFK, Auto Heal, Respawn, and more! <br>
+🧩 Works with all major executors including Synapse X, KRNL, Fluxus and more! <br>
 
 Use this **roblox project slayers script** to completely revolutionize your gameplay in 2025. Whether you're grinding levels or farming rare loot, the **project slayers script 2025** has everything you need! 🎮💥
 
